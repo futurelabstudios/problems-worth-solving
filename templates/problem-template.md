@@ -43,7 +43,7 @@ Identify the relevant capability: prediction, personalisation, search, synthesis
 |  |  |  |  |
 |  |  |  |  |
 
-Targets are hypotheses. Prefer a useful estimate over a vague ambition, and label uncertainty honestly.
+Targets are proposed acceptance thresholds unless supported by cited evidence. Separate baseline, planning assumption, target and achieved result. Use METHODOLOGY.md and include a stop condition.
 
 ## Real-world success
 
@@ -97,7 +97,9 @@ Who could plausibly build, buy, fund, regulate, host or open-source solutions? I
 
 What changes across language, culture, income level, regulation and infrastructure? What part of the solution is universal and what must remain local?
 
-## Scores
+## Scores (optional for drafts)
+
+Drafts may remain unscored until baseline and specialist review. See [measurement methodology](../METHODOLOGY.md). Do not invent precision.
 
 | Dimension | Score (1–5) | Rationale |
 |---|---:|---|

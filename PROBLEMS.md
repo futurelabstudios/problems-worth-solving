@@ -1,14 +1,16 @@
 # Problems AI Should Help Humanity Solve
 
-This is version 0.1 of the map.
+This is the broad ambition map. For bounded, testable projects, see the [24 tangible problem briefs](CATALOGUE.md).
 
 It is deliberately global. A person in Bengaluru, Lagos, London, São Paulo or a small town should be able to recognise many of these problems in their own life.
 
-The targets below are provocations. They turn aspirations into falsifiable challenges. Contributors should improve them.
+The numbers below are aspirational prompts, not observed results or evidence-based effect estimates. The [measurement methodology](METHODOLOGY.md) explains how to turn them into credible experiments.
 
 ---
 
 ## 1. BODY — help every person remain healthy for longer
+
+**Tangible starting points:** [Close the loop on abnormal test results](problems/body/PWS-0101.md) · [Give patients one accurate medication list after discharge](problems/body/PWS-0102.md) · [Fill cancelled specialist appointments fairly](problems/body/PWS-0103.md)
 
 ### 1.1 End the diagnostic maze
 
@@ -60,6 +62,8 @@ The targets below are provocations. They turn aspirations into falsifiable chall
 
 ## 2. MIND — give everyone access to extraordinary cognition
 
+**Tangible starting points:** [Find the missing maths concept before a learner gives up](problems/mind/PWS-0104.md) · [Make multilingual customer support preserve meaning](problems/mind/PWS-0105.md) · [Help workers learn a new skill they can use without the tutor](problems/mind/PWS-0106.md)
+
 ### 2.1 A personal tutor for every learner
 
 **Everyday reality:** Education moves at the speed of the class, not the learner.
@@ -99,6 +103,8 @@ Today, good legal, financial, technical, medical and business advice is rationed
 
 ## 3. TIME — return the finite hours of a human life
 
+**Tangible starting points:** [Resolve a wrong bill without hours of chasing](problems/time/PWS-0107.md) · [Find the current answer inside a team's scattered documents](problems/time/PWS-0108.md) · [Prevent agreed work from disappearing after a meeting](problems/time/PWS-0109.md)
+
 ### 3.1 Eliminate routine life administration
 
 **Everyday reality:** Bills, claims, taxes, forms, appointments, renewals, cancellations and document chasing consume attention without creating meaning.
@@ -128,6 +134,8 @@ Today, good legal, financial, technical, medical and business advice is rationed
 ---
 
 ## 4. MATERIAL WORLD — make abundance cheaper and cleaner
+
+**Tangible starting points:** [Reduce fresh-food waste without creating empty shelves](problems/material-world/PWS-0110.md) · [Cool buildings using less electricity without making people uncomfortable](problems/material-world/PWS-0111.md) · [Catch missing permit information before a home design is submitted](problems/material-world/PWS-0112.md)
 
 ### 4.1 Make clean energy reliably abundant
 
@@ -179,6 +187,8 @@ Priority search spaces include energy storage, low-carbon cement and steel, cool
 
 ## 5. ECONOMIC AGENCY — let more people create value
 
+**Tangible starting points:** [Warn a small business before it cannot cover next month's bills](problems/economic-agency/PWS-0113.md) · [Stop avoidable inventory shortages without tying up more cash](problems/economic-agency/PWS-0114.md) · [Let capable applicants demonstrate skill before credentials screen them out](problems/economic-agency/PWS-0115.md)
+
 ### 5.1 Give every small business a world-class operating team
 
 **Everyday reality:** A small-business owner is expected to be strategist, marketer, accountant, recruiter, analyst and operations manager at once.
@@ -219,6 +229,8 @@ Priority search spaces include energy storage, low-carbon cement and steel, cool
 
 ## 6. TRUST AND CONNECTION — help people navigate other minds
 
+**Tangible starting points:** [Catch fake supplier bank-detail changes before payment](problems/trust-and-connection/PWS-0116.md) · [Check whether a cited source actually supports a claim](problems/trust-and-connection/PWS-0117.md) · [Help newcomers form a friendship that survives the first meetup](problems/trust-and-connection/PWS-0118.md)
+
 ### 6.1 Make digital fraud far harder
 
 - Detect scams before money or credentials move.
@@ -253,6 +265,8 @@ Priority search spaces include energy storage, low-carbon cement and steel, cool
 ---
 
 ## 7. CIVILISATION — coordinate systems no individual can hold in mind
+
+**Tangible starting points:** [Reduce missed bus connections without adding vehicles](problems/civilisation/PWS-0119.md) · [Locate hidden water leaks before crews excavate the wrong place](problems/civilisation/PWS-0120.md) · [Turn flood warnings into usable evacuation instructions](problems/civilisation/PWS-0121.md)
 
 ### 7.1 Make bureaucracy legible and executable
 
@@ -297,6 +311,8 @@ Apply intelligence to pandemic detection, climate adaptation, supply-chain fragi
 ---
 
 ## 8. FRONTIER — expand the space of possible futures
+
+**Tangible starting points:** [Reproduce a published computational result without weeks of detective work](problems/frontier/PWS-0122.md) · [Find a lower-impact concrete mix with fewer physical experiments](problems/frontier/PWS-0123.md) · [Recover a spacecraft fault when Earth cannot answer immediately](problems/frontier/PWS-0124.md)
 
 ### 8.1 Build a memory for science
 

@@ -30,7 +30,7 @@ If these questions cannot yet be answered, open an issue for exploration before 
 
 1. Search the repository for overlaps.
 2. Copy `templates/problem-template.md`.
-3. Give the entry the next available `PWS-XXXX` identifier.
+3. Use an unused `PWS-XXXX` identifier and place the brief under `problems/<territory>/`. IDs through PWS-0100 are reserved for historical compatibility; see CATALOGUE.md. Check open PRs to avoid collisions.
 4. Complete every required section. Write `Unknown` rather than inventing certainty.
 5. Prefer primary evidence and link directly to sources.
 6. Open a pull request titled `Problem: <short title>`.
@@ -51,20 +51,13 @@ An accepted entry is:
 
 Acceptance means **well specified enough to work on**. It does not endorse a particular intervention.
 
-## Scoring
+## Targets, evidence and scoring
 
-Use a 1–5 score for each dimension and explain it. Do not collapse the dimensions into a single universal score.
+Follow [METHODOLOGY.md](METHODOLOGY.md). Separate observed baselines, sourced estimates, planning assumptions, proposed targets and achieved results. All 24 initial briefs are unscored drafts; they do not imply validated demand, partners or performance.
 
-- **Human value**
-- **Scale**
-- **Neglectedness**
-- **Tractability**
-- **Measurability**
-- **Leverage**
-- **Safety readiness**
-- **Commissionability**
+A draft needs a bounded problem, three measurable sub-problems, a credible comparator, an experiment and stop conditions. A named steward and verified evidence are required for active status, not for opening a draft.
 
-Scores without reasoning will not be accepted.
+Optional later-stage scores cover human value, global relevance, AI contribution, decomposability, measurability, economic sustainability, safety readiness and deployment path. Explain uncertainty and do not combine these into a universal rank.
 
 ## Evidence standard
 
