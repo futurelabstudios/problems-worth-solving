@@ -51,9 +51,16 @@
     },
     "territory": {
       "enum": [
+        "essentials",
+        "health",
+        "security",
+        "time",
+        "care",
+        "learning",
+        "belonging",
+        "neighbourhood",
         "body",
         "mind",
-        "time",
         "material-world",
         "economic-agency",
         "trust-and-connection",
@@ -62,5 +69,34 @@
       ]
     }
   },
-  "additionalProperties": true
+  "additionalProperties": true,
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "not": {
+              "const": "archived"
+            }
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "territory": {
+            "enum": [
+              "essentials",
+              "health",
+              "security",
+              "time",
+              "care",
+              "learning",
+              "belonging",
+              "neighbourhood"
+            ]
+          }
+        }
+      }
+    }
+  ]
 }

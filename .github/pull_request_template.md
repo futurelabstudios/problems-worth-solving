@@ -1,28 +1,29 @@
-## What changed?
+## Whose life gets better?
 
-Describe the problem, decomposition, evidence or framework you changed.
+Name the human outcome and explain why someone would root for it.
 
-## Why does it matter?
+## What changes in their day?
 
-Explain the real-world human or civilisational value.
+Describe the practical benefit in ordinary language.
 
-## Measurable claim
+## How does the benefit reach them?
 
-What outcome, target or assumption can be tested?
+Trace capability → changed service, price or option → experienced improvement.
 
-## AI leverage
+## How will we know?
 
-Why is intelligence a meaningful bottleneck here?
+State observable conditions, reported experience, comparator and evidence status.
 
-## Failure modes
+## What might get worse?
 
-Who or what could be harmed if this framing is wrong?
+Include people outside the immediate customer group.
 
 ## Checklist
 
-- [ ] This is a problem, not a disguised product pitch.
-- [ ] The problem is decomposed into measurable parts.
-- [ ] Important claims have sources or are clearly labelled as estimates.
-- [ ] Real-world success is defined beyond an AI benchmark.
-- [ ] Risks, counter-metrics and affected people are considered.
-- [ ] The language can be understood outside my own field or country.
+- [ ] The problem starts with a human outcome.
+- [ ] Three measurable parts are present.
+- [ ] The benefits reaching people are explicit.
+- [ ] Targets, assumptions, evidence and results are distinguished.
+- [ ] AI's limits and a simpler comparator are considered.
+- [ ] Different lives and access conditions are considered.
+- [ ] No unverified partners, access or achieved effects are claimed.

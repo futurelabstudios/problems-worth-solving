@@ -36,7 +36,9 @@ A seed entry may begin as a draft. Promotion to **active** normally requires:
 - one maintainer approval;
 - a named steward;
 - a defined outcome and next step;
-- and community or safety review where material.
+- review by people affected by the problem, including whether the proposed benefit matters to them;
+- evidence of how the benefit will reach those people;
+- and safety review where material.
 
 Material conflicts of interest must be disclosed. Financial supporters may fund work but cannot buy rankings, suppress evidence or prevent the publication of negative results.
 

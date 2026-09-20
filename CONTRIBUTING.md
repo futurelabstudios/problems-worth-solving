@@ -1,80 +1,49 @@
-# Contributing
+# Help define a better everyday life
 
-This project needs more than ideas. It needs problems described well enough that somebody can act.
+You do not need an AI idea to contribute. Start with something people wish were easier, safer, less expensive or less painful.
 
-## Ways to contribute
+## The first question
 
-- **Add a problem** using the problem template.
-- **Strengthen an entry** with better evidence, sharper boundaries or a more credible commissioning path.
-- **Challenge an assumption** respectfully and specifically.
-- **Represent lived experience** that an entry has missed.
-- **Offer resources**: data, expertise, funding, institutional access or implementation capacity.
-- **Document an attempt**, including a failed one.
+Would someone living with this say, **“Yes. Solving that would make my life better”?**
 
-## Before proposing a problem
+Describe the person, the difficult moment and the change they would value. Avoid inventing a representative quote: label imagined voices as illustrative and seek real feedback.
 
-Ask:
+## What a draft needs
 
-1. Who is experiencing the problem?
-2. What observable harm or lost opportunity occurs?
-3. Is the problem bounded enough for progress within months or years?
-4. What evidence separates it from a plausible story?
-5. What has already been attempted?
-6. Who has the authority, incentive or duty to act?
-7. What is the smallest useful next step?
-8. Could acting create new harm?
+1. A plain-language title about an outcome people want.
+2. A description of what life would feel like after improvement.
+3. Three measurable parts, including experience as well as observable conditions.
+4. A plausible contribution from AI and the constraints it cannot remove.
+5. A clear account of how the benefit reaches the person.
+6. A first experiment, a credible comparator and reasons to stop.
+7. Possible harms and differences across people's circumstances.
+8. Honest evidence status.
 
-If these questions cannot yet be answered, open an issue for exploration before submitting a full entry.
+A company or public service may be essential to the solution. Its operational metric belongs underneath the human outcome.
 
-## Submission workflow
+## How to submit
 
-1. Search the repository for overlaps.
-2. Copy `templates/problem-template.md`.
-3. Use an unused `PWS-XXXX` identifier and place the brief under `problems/<territory>/`. IDs through PWS-0100 are reserved for historical compatibility; see CATALOGUE.md. Check open PRs to avoid collisions.
-4. Complete every required section. Write `Unknown` rather than inventing certainty.
-5. Prefer primary evidence and link directly to sources.
-6. Open a pull request titled `Problem: <short title>`.
-7. Respond to domain, community and safety review.
+- Check [CATALOGUE.md](CATALOGUE.md) for overlap.
+- Use [the template](templates/problem-template.md).
+- Place the file at `problems/<territory>/PWS-XXXX.md`.
+- Choose an unused ID after PWS-0224; check open PRs for collisions. Never recycle historical IDs.
+- Use one of the eight current territories: essentials, health, security, time, care, learning, belonging, neighbourhood.
+- Open a pull request explaining who benefits and what evidence is still missing.
 
-## Acceptance standard
+If the problem is still unclear, open a problem-proposal issue first.
 
-An accepted entry is:
+## Evidence and review
 
-- consequential;
-- specific enough to support action;
-- supported by credible evidence;
-- honest about uncertainty;
-- measurable in principle;
-- explicit about affected people and risks;
-- connected to a plausible commissioner;
-- maintained by a named steward.
+Follow [METHODOLOGY.md](METHODOLOGY.md). Separate observed baselines, published estimates, assumptions, proposed targets and achieved results. Cite primary evidence for factual claims. Do not describe a partner, dataset or experiment as secured until it is.
 
-Acceptance means **well specified enough to work on**. It does not endorse a particular intervention.
+Drafts need no invented impact score. Promotion requires affected-person feedback and domain review; active work also needs ownership, permissions and an outcome contract.
 
-## Targets, evidence and scoring
+## Other useful contributions
 
-Follow [METHODOLOGY.md](METHODOLOGY.md). Separate observed baselines, sourced estimates, planning assumptions, proposed targets and achieved results. All 24 initial briefs are unscored drafts; they do not imply validated demand, partners or performance.
+Tell us where the problem misses your experience. Add a baseline, identify existing work, find an accessible route for excluded people, improve a metric or publish an experiment that did not work.
 
-A draft needs a bounded problem, three measurable sub-problems, a credible comparator, an experiment and stop conditions. A named steward and verified evidence are required for active status, not for opening a draft.
+Personal, medical and financial data should not be posted publicly. Summarise experiences without identifying someone who has not consented.
 
-Optional later-stage scores cover human value, global relevance, AI contribution, decomposability, measurability, economic sustainability, safety readiness and deployment path. Explain uncertainty and do not combine these into a universal rank.
+## How we disagree
 
-## Evidence standard
-
-Prefer, in order:
-
-1. official administrative data and primary research;
-2. systematic reviews and strong independent evaluations;
-3. credible institutional reports;
-4. expert or community testimony, clearly labelled;
-5. hypotheses awaiting validation.
-
-Do not create false precision. Name important disagreement and missing data.
-
-## Community and safety
-
-People affected by a problem should be involved in defining success and reviewing interventions. Do not publish personal, medical, financial or otherwise sensitive data. High-risk entries require explicit safeguards, human accountability and a credible path to reversibility.
-
-## Pull requests are invitations to think together
-
-Rigour is welcome. Status games are not. Critique the claim, evidence and mechanism—not the contributor.
+Be precise and respectful. Question mechanisms, evidence and trade-offs. A person's lived experience deserves to be heard even when it does not fit our preferred solution.

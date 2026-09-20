@@ -1,80 +1,81 @@
 # Problems Worth Solving
 
-> If intelligence becomes abundant, what should we ask it to solve?
+> What should AI solve so ordinary people can live better?
 
-For decades, we have made lists of the most influential people on Earth.
+A home you can afford. Food you enjoy. A body that lets you live. Work that pays enough. Time with people you love. Someone to turn to. Less worry about tomorrow.
 
-We should be equally serious about the problems worth their attention.
+That is what abundance should feel like.
 
-A person should not lose a week to a wrong bill. A child should not conclude they are bad at maths because nobody found the missing concept. A small business should see a cash shortage coming. A scientist should be able to build on what another scientist already discovered.
+**Problems Worth Solving is an open list of human problems we would be glad to see solved—and practical ways to test whether AI can help.**
 
-These are useful places to begin.
+## What would make your life better?
 
-**Problems Worth Solving is an open catalogue of consequential problems that AI could help solve, broken into work we can actually test.**
-
-## Start here
-
-- **[Browse 24 tangible problem briefs](CATALOGUE.md)** — three in each of eight domains.
-- **[Explore the larger problem map](PROBLEMS.md)** — the ambitions behind the briefs.
-- **[Understand the measurement rules](METHODOLOGY.md)** — what counts as progress.
-- **[Contribute a problem or an experiment](CONTRIBUTING.md)** — improve the list or put one entry to work.
-
-## A world of problems people recognise
-
-| Domain | Three concrete starting points |
+| What we want | Problems worth rooting for |
 |---|---|
-| Body | [Close the loop on abnormal test results](problems/body/PWS-0101.md) · [Give patients one accurate medication list after discharge](problems/body/PWS-0102.md) · [Fill cancelled specialist appointments fairly](problems/body/PWS-0103.md) |
-| Mind | [Find the missing maths concept before a learner gives up](problems/mind/PWS-0104.md) · [Make multilingual customer support preserve meaning](problems/mind/PWS-0105.md) · [Help workers learn a new skill they can use without the tutor](problems/mind/PWS-0106.md) |
-| Time | [Resolve a wrong bill without hours of chasing](problems/time/PWS-0107.md) · [Find the current answer inside a team's scattered documents](problems/time/PWS-0108.md) · [Prevent agreed work from disappearing after a meeting](problems/time/PWS-0109.md) |
-| Material world | [Reduce fresh-food waste without creating empty shelves](problems/material-world/PWS-0110.md) · [Cool buildings using less electricity without making people uncomfortable](problems/material-world/PWS-0111.md) · [Catch missing permit information before a home design is submitted](problems/material-world/PWS-0112.md) |
-| Economic agency | [Warn a small business before it cannot cover next month's bills](problems/economic-agency/PWS-0113.md) · [Stop avoidable inventory shortages without tying up more cash](problems/economic-agency/PWS-0114.md) · [Let capable applicants demonstrate skill before credentials screen them out](problems/economic-agency/PWS-0115.md) |
-| Trust and connection | [Catch fake supplier bank-detail changes before payment](problems/trust-and-connection/PWS-0116.md) · [Check whether a cited source actually supports a claim](problems/trust-and-connection/PWS-0117.md) · [Help newcomers form a friendship that survives the first meetup](problems/trust-and-connection/PWS-0118.md) |
-| Civilisation | [Reduce missed bus connections without adding vehicles](problems/civilisation/PWS-0119.md) · [Locate hidden water leaks before crews excavate the wrong place](problems/civilisation/PWS-0120.md) · [Turn flood warnings into usable evacuation instructions](problems/civilisation/PWS-0121.md) |
-| Frontier | [Reproduce a published computational result without weeks of detective work](problems/frontier/PWS-0122.md) · [Find a lower-impact concrete mix with fewer physical experiments](problems/frontier/PWS-0123.md) · [Recover a spacecraft fault when Earth cannot answer immediately](problems/frontier/PWS-0124.md) |
+| **Afford the basics** | [Afford a safe home with money left to live](problems/essentials/PWS-0201.md) · [Eat well without worrying about the grocery bill](problems/essentials/PWS-0202.md) · [Keep the lights on and the home comfortable without bill shock](problems/essentials/PWS-0203.md) |
+| **Feel well** | [Get the right help when something feels wrong](problems/health/PWS-0204.md) · [Have more days when pain does not decide what you can do](problems/health/PWS-0205.md) · [Wake up rested enough to enjoy the day](problems/health/PWS-0206.md) |
+| **Feel financially secure** | [Earn a dependable living without losing your whole life to work](problems/security/PWS-0207.md) · [Survive an unexpected bill without a debt spiral](problems/security/PWS-0208.md) · [Keep your savings safe from scams](problems/security/PWS-0209.md) |
+| **Have time to live** | [Get some of your day back from chores](problems/time/PWS-0210.md) · [Spend less of your life travelling to work](problems/time/PWS-0211.md) · [Finish essential paperwork without losing a day](problems/time/PWS-0212.md) |
+| **Care for the people we love** | [Find childcare you trust and can afford](problems/care/PWS-0213.md) · [Help ageing parents live with dignity without constant family worry](problems/care/PWS-0214.md) · [Have time and energy for the people you love](problems/care/PWS-0215.md) |
+| **Have a fair chance** | [Help every child learn without feeling left behind](problems/learning/PWS-0216.md) · [Start again when your work no longer offers a future](problems/learning/PWS-0217.md) · [Be understood wherever life takes you](problems/learning/PWS-0218.md) |
+| **Feel connected and at peace** | [Have someone you can turn to](problems/belonging/PWS-0219.md) · [Get support when worry feels too heavy](problems/belonging/PWS-0220.md) · [Disagree without every conversation becoming a fight](problems/belonging/PWS-0221.md) |
+| **Live somewhere safe and healthy** | [Breathe cleaner air where you live and work](problems/neighbourhood/PWS-0222.md) · [Trust the water coming into your home](problems/neighbourhood/PWS-0223.md) · [Keep your family safe when extreme weather reaches your street](problems/neighbourhood/PWS-0224.md) |
 
-## Why this exists
+**[Explore all 24 problems →](CATALOGUE.md)**
 
-The idea of a “country of geniuses in a datacenter” raises a practical question: **who is giving that intelligence worthwhile work?**
+## The question behind the list
 
-Useful work can be commercial, scientific, personal or public. Customers, entrepreneurs, researchers, communities and governments all have a role. We want a broader map of what becomes possible when the cost of useful cognition falls.
+We talk about AI becoming extraordinarily capable. We spend less time asking what that capability should mean for a person getting through an ordinary Tuesday.
 
-Start with what people need: health, knowledge, time, shelter, energy, economic agency, trust and connection. Then ask which constraint is actually holding progress back.
+Would they have more money left after paying for essentials? Less pain? More time with their children? A fair chance to start again? A little less fear?
 
-Sometimes the constraint is prediction. Sometimes it is fragmented information, expensive expertise or coordination. Sometimes it is land, hardware, incentives, trust or political agreement. A capable model cannot make those distinctions disappear.
+We want to make those hopes concrete enough that people can work on them—and honest enough that we can tell when something helped.
 
-## What is inside a brief?
+For this project:
 
-Each entry includes:
+- **Abundance** means essentials are easier to afford and more choices are within reach.
+- **Peace** means less avoidable fear, uncertainty, conflict and pressure.
+- **Happiness** means more room for connection, curiosity, enjoyment and a life you choose.
 
-- A recognisable human problem and its underlying constraints.
-- A bounded workflow and a credible alternative to beat.
-- Three measurable sub-problems, proposed targets and evaluation methods.
-- Data requirements, plausible customers or commissioners, and full-cost considerations.
-- Failure modes, stop conditions and what must change across countries.
-- A 30–90 day experiment that can test an important assumption.
+Technology cannot guarantee happiness or decide what a good life means for everyone. It can help remove some of the things that keep getting in the way.
 
-**Current status: 24 drafts, 72 measurable sub-problems, no claimed completed pilots.** Targets are proposed acceptance thresholds. Baselines remain to be measured; numerical ambitions are not evidence of achievable effects.
+## Our test for every problem
 
-We deliberately keep safety, outcome and cost separate. Fewer missed connections mean little if everyone already on the bus gets home later. Less food waste means little if the shelves are empty.
+**Would someone living with this say, “Yes. Solving that would make my life better”?**
 
-## Who can help?
+Then ask:
 
-Bring a real workflow, a dataset you can lawfully share, a customer, a difficult objection or an experiment.
+1. What changes in that person's actual day?
+2. How would they know it improved?
+3. How does the benefit reach them?
+4. What could get worse, and for whom?
+5. What part could AI realistically help with?
 
-You can start with a small contribution: correct a metric, identify existing work, suggest a simpler solution, or explain where the problem statement misunderstands your life.
+A business saving money is useful when it leads to something people receive: a lower price, better care, fairer work, more time or a better service. We require evidence of that connection.
 
-Use the [problem template](templates/problem-template.md) and [contribution guide](CONTRIBUTING.md). Problems remain drafts until someone takes responsibility and the evidence improves. See [governance](GOVERNANCE.md).
+## From a wish to work someone can do
 
-## What we value
+Each brief starts with a person and a better-life outcome. Underneath are three measurable parts, a possible role for AI, the constraints technology cannot remove, and a first experiment.
 
-Human agency. Useful evidence. Honest uncertainty. Ambition that survives contact with reality.
+The initial set has **24 draft problems across eight areas of life**. Targets are proposals. No completed pilots, proven effects or confirmed partners are claimed.
 
-The aim is to reduce avoidable suffering, expand what people can do, and make the essentials of a good life easier to access.
+We have deliberately left room for people to correct us. An imagined voice in a brief is illustrative; it is not a quote from user research.
 
-**The list should grow because we understand the world better. Its real success will be problems we can cross off—with evidence.**
+## Join in
 
-## Origin and licence
+You do not need to be an AI expert.
 
-Initiated by [Futurelab Studios](https://futurelabstudios.com), following a conversation about who commissions the work of increasingly capable AI.
+Tell us what is difficult in your life, what would make a real difference, or why an entry misses the point. Builders, scientists, companies, public services and communities can then help turn a well-understood problem into action.
 
-Built in public. Contributions welcome. Content is available under [CC BY 4.0](LICENSE).
+- [Read the full catalogue](CATALOGUE.md)
+- [See the vision behind it](PROBLEMS.md)
+- [Suggest or improve a problem](CONTRIBUTING.md)
+- [Understand how we measure a better life](METHODOLOGY.md)
+
+## Why the list changed
+
+Earlier versions led with institutional and technical tasks. This version starts with what people want from life. Some of the older work may help solve these problems; it belongs underneath the human purpose. [Revision history](HISTORY.md) preserves that work.
+
+Initiated by [Futurelab Studios](https://futurelabstudios.com). Built in public. Content licensed under [CC BY 4.0](LICENSE).
+
+**If intelligence becomes abundant, a good life should become more attainable.**

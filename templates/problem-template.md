@@ -1,131 +1,74 @@
 ---
 id: PWS-XXXX
-title: A precise, outcome-neutral problem
+title: "A better-life outcome in ordinary language"
 status: draft
-territory: body | mind | time | material-world | economic-agency | trust-and-connection | civilisation | frontier
-geography: global
+territory: essentials
+geography: global-with-local-validation
 steward: unassigned
-last_reviewed: YYYY-MM-DD
-tags: []
+last_reviewed: "YYYY-MM-DD"
+tags: [human-outcome]
 ---
 
-# PWS-XXXX: Problem title
+# Title
 
-## The ordinary human experience
+> An illustrative first-person wish, clearly labelled as illustrative.
 
-Describe the moment in a person’s life when this problem becomes real. Prefer something recognisable to abstract language.
+## What a better life would feel like
 
-## In one sentence
+Who is affected? What would change in their day? What do they value?
 
-Who cannot achieve what valuable outcome because which constraint remains unresolved?
+## The problem, in measurable parts
 
-## Why this matters
+| What needs to change | What we would measure |
+|---|---|
+| First human outcome | Observable condition and/or reported experience |
+| Second human outcome | Observable condition and/or reported experience |
+| Third human outcome | Observable condition and/or reported experience |
 
-What suffering, wasted time, foregone opportunity, cost or civilisational risk does it create?
+## Where AI could help
 
-## First-principles decomposition
+Explain the underlying work and compare with existing or simpler alternatives.
 
-Break the problem into its underlying constraints. Distinguish physical limits from limits of intelligence, incentives, institutions and coordination.
+## What technology cannot fix on its own
 
-1. 
-2. 
-3. 
+Identify physical, financial, institutional or power constraints.
 
-## Why AI changes what is possible
+## How the benefit must reach the person
 
-Identify the relevant capability: prediction, personalisation, search, synthesis, design, simulation, translation, control or coordination. Explain why more software or more people alone have not solved it.
+Trace the chain from technical capability to service or price change to human benefit. Who might retain the gains? How will you verify what reaches people?
 
-## Measurable sub-problems
+## A first experiment
 
-| Sub-problem | Current baseline | Proposed target | How it would be measured |
-|---|---:|---:|---|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+Define participants, scope, comparator, duration, proposed targets and uncertainty. Distinguish a first test from solving the whole problem.
 
-Targets are proposed acceptance thresholds unless supported by cited evidence. Separate baseline, planning assumption, target and achieved result. Use METHODOLOGY.md and include a stop condition.
+## Evidence status
 
-## Real-world success
+List verified sources and what they support. Mark unknown baselines and access. Label proposed targets; never present them as forecasts or achieved effects.
 
-Describe the outcome in the world. A benchmark score, demo or model preference is not sufficient.
+## What is needed to test it
 
-## System boundary
+Data, host, affected people, expertise, cost and permissions. Specify what is secured versus required.
 
-**Included:**  
-**Excluded:**  
-**Time horizon:**  
-**Unit of analysis:**
+## Who might make it happen
 
-## Evidence and prior attempts
+Possible builders, buyers or funders. Explain how people benefit after all costs; identify conflicts of interest.
 
-- Primary evidence:
-- Existing approaches:
-- What they solved:
-- What remains:
-- Important disagreement or uncertainty:
+## What could make life worse
 
-## Data and infrastructure
+Who could be excluded, manipulated, burdened or harmed?
 
-- Available data:
-- Missing data:
-- Physical infrastructure required:
-- Data holders:
-- Privacy, consent and security constraints:
+## Stop or rethink if
 
-## Builders and commissioners
+Define unacceptable harm, missing benefit or a simpler alternative that wins.
 
-Who could plausibly build, buy, fund, regulate, host or open-source solutions? Include commercial paths where genuine value can support them.
+## Making this relevant in different lives
 
-## Risks, rights and failure modes
+Language, income, geography, disability, household type and digital access.
 
-- What happens when the system is wrong?
-- Who could be excluded, manipulated or made dependent?
-- What metric might become a harmful proxy?
-- What decisions must remain accountable to humans?
-- Can an action be inspected and reversed?
+## First contribution wanted
 
-## Evaluation design
+The most valuable missing evidence or lived-experience review.
 
-- Primary outcome:
-- Leading indicators:
-- Counter-metrics:
-- Evaluation population and context:
-- Minimum meaningful improvement:
-- Independent validation:
+## Progress
 
-## Global transfer
-
-What changes across language, culture, income level, regulation and infrastructure? What part of the solution is universal and what must remain local?
-
-## Scores (optional for drafts)
-
-Drafts may remain unscored until baseline and specialist review. See [measurement methodology](../METHODOLOGY.md). Do not invent precision.
-
-| Dimension | Score (1–5) | Rationale |
-|---|---:|---|
-| Human value |  |  |
-| Global relevance |  |  |
-| AI leverage |  |  |
-| Decomposability |  |  |
-| Measurability |  |  |
-| Economic sustainability |  |  |
-| Safety readiness |  |  |
-| Path to deployment |  |  |
-
-## Smallest serious experiment
-
-Define one 30–90 day experiment that would either demonstrate value or kill a weak assumption.
-
-## Help wanted
-
-- Domain expertise:
-- Affected users:
-- Builders:
-- Data:
-- Compute or infrastructure:
-- Funding or customers:
-- Independent evaluators:
-
-## Progress log
-
-- YYYY-MM-DD — Entry created.
+- YYYY-MM-DD — Draft added; no pilot started.

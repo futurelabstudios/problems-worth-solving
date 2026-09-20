@@ -1,77 +1,86 @@
-# What counts as progress?
+# How would a person know life got better?
 
-A problem list becomes useful when another person can tell whether anything improved.
+## The human-outcome test
 
-## Three layers
+Before discussing AI, ask someone living with the problem:
 
-1. **Grand challenge:** the human outcome we ultimately want, in [PROBLEMS.md](PROBLEMS.md).
-2. **Bounded brief:** a specific population, workflow and test, in [CATALOGUE.md](CATALOGUE.md).
-3. **Evidence record:** observed baseline, experiment and results, added when actual work happens.
+- Is this something you want changed?
+- What would a meaningful improvement feel like?
+- What are you unwilling to give up for it?
+- Who else would be affected?
 
-The repository currently contains the first two. It does not yet contain completed experiments.
+The current briefs contain illustrative voices, not completed interviews. Validation with affected people is still required.
 
-## Separate five kinds of numbers
+## Three layers, one purpose
 
-| Type | Meaning | Current treatment |
-|---|---|---|
-| Observed baseline | Measured performance of a defined system | Unknown until a host supplies it |
-| Source-backed estimate | Published estimate with population, date and method | Cite the exact supporting source |
-| Planning assumption | Hypothetical input for sizing | Label explicitly and vary it |
-| Proposed target | A threshold for deciding whether a pilot is useful | All numerical targets in the new briefs |
-| Achieved result | An observed effect under a documented evaluation | None claimed |
+1. **Human ambition:** affordable living, health, security, time, care, opportunity, connection or a safe environment.
+2. **Measurable parts:** observable conditions and the person's experience.
+3. **Experiment:** a bounded test of one possible contribution.
 
-The broad map's 80%, 90%, 100× and similar numbers are aspiration prompts. They are not estimates of AI capability or guaranteed savings. The narrower briefs provide more testable starting hypotheses.
+Do not declare the ambition solved when only a process metric improves.
 
-## Pick a measurable slice
+## Show who gets the gain
 
-Name the population, geography, workflow, unit, exclusions and time horizon. A global problem can begin with one language or one facility. Global relevance does not imply global validity.
+Every brief must explain the benefit reaching the person after prices, fees, travel, devices, time, correction and unpaid labour.
 
-Break the workflow into detection, decision and completed outcome. Where only a proxy can be measured in 90 days, state the later outcome study required.
+- A store throwing away less food does not establish that families can afford better meals.
+- A clinic processing more cases does not establish that patients receive better care.
+- An employer doing more with fewer people does not establish that workers have better lives.
+- An app generating more interactions does not establish that someone feels less alone.
 
-## Beat the strongest practical alternative
+Measure the person-level outcome and the mechanism connecting it to the intervention. Do not assume savings will be passed on.
 
-Compare with the existing workflow after obvious repairs, a rules-based process, a tuned classical method or qualified human work. Hold access, budget and support constant where possible. A bad baseline can make any intervention look impressive.
+## Pair lived experience with observable conditions
 
-Use chronological or held-out-site evaluation for predictive tasks. Do not leak future outcomes into training. Prefer randomised or crossover comparisons when feasible; otherwise document confounders and avoid causal claims.
+Use both where possible: household receipts and financial strain; journey minutes and stress; independent learning and confidence; actual human contact and perceived support.
 
-## Write an outcome contract before running the pilot
+Let people choose meaningful goals. Do not infer wellbeing from usage, facial expression, sentiment or compliance. A positive average can conceal serious harm to a smaller group.
 
-For each metric define:
+## Label every number
 
-- Numerator and denominator, including failed and abandoned cases.
-- Measurement window and source of truth.
-- Absolute baseline, proposed change and whether change is relative or percentage points.
-- Full cost, including data work, compute, review, integration and ongoing maintenance.
-- Counter-metrics, subgroup checks and stop conditions.
-- A named independent reviewer and a plan for disputed cases.
+| Kind | Requirement |
+|---|---|
+| Baseline | Observed population, date, units and measurement method |
+| Published estimate | Supporting source and limits of applicability |
+| Planning assumption | Explicitly hypothetical; show a sensible range |
+| Proposed target | A threshold to discuss and test, not an effect prediction |
+| Achieved result | A documented comparison, uncertainty and full costs |
 
-If a baseline rate is 20%, a 25% relative reduction means 15%, not minus five percent of all possible cases without a denominator. If there are no failures in 100 independent trials, that does not establish zero real-world failure probability.
+Current entries are draft hypotheses. Baselines, access, partners and achieved effects are not yet established. Pilot numbers are editorial proposals, not research-derived forecasts.
 
-## Estimate value without inventing a global market
+**Illustrative calculation:** saving 20 minutes on each of five weekly round trips returns 100 minutes a week. Deduct extra planning or waiting elsewhere before claiming the time was recovered. This is arithmetic under an assumption, not an observed transport result.
 
-**Hypothetical time-saving example:** 1,000 cases/month × 12 minutes baseline × 30% reduction = 60 gross hours/month. If review and integration support consume 25 hours/month, net saving is 35 hours. These inputs are illustrative, not evidence for any brief.
+## Design an honest comparison
 
-**Hypothetical waste example:** 500 kg/week baseline waste × 20% reduction = 100 kg/week avoided. Count extra transport, reduced sales, supplier losses and downstream disposal before claiming a net benefit.
+Compare against a well-run existing service or simple alternative, with equivalent access and support. Preregister the population, primary outcome, denominator, comparator, period and stop conditions. Include failed, abandoned and rejected cases.
 
-Use a range of volumes, effects and costs. Do not extrapolate one successful store, language, clinic or simulator to the world. Avoid monetising lives or relationships casually; retain natural outcome units.
+For financial and time savings, count all costs and burdens, including who bears them. For health, relationships and safety, preserve appropriate natural measures rather than assigning arbitrary monetary values.
 
-## Evidence maturity
+Short pilots test usability, feasibility and variance. Rare-event safety and durable health, income or relationship outcomes need larger or longer evaluation. No failures in a small sample does not establish safety.
 
-- **Draft:** a falsifiable specification; evidence and host not yet secured.
-- **Seed:** prior work and local relevance reviewed; baseline acquisition planned.
-- **Active:** named steward, verified access, baseline, comparator and outcome contract.
-- **In progress:** an experiment is actually running.
-- **Solved locally:** independently supported outcome within the stated scope.
-- **Archived:** superseded, rejected or inactive, with reasons retained.
+## Avoid one imaginary average person
 
-A score is optional at draft stage. At later stages, assess human value, global relevance, AI contribution, decomposability, measurability, economic sustainability, safety readiness and deployment path. Explain each judgment and uncertainty; do not manufacture a universal leaderboard.
+Test across relevant income levels, languages, ages, disabilities, household types, locations and digital access. State who was excluded. Offer accessible participation where possible. Do not claim global benefit from one successful setting.
 
-## Source and result integrity
+## Accept the limits of AI
 
-The new briefs are authored research and product hypotheses, not a systematic literature review. Named existing approaches are starting comparators. Any linked source supports only the associated context, not our proposed targets.
+Ask whether the constraint is cognition, physical supply, money, rights, institutions or power. Use simpler methods when they work. A medical, financial or engineering pilot target is not professional authorisation or proof of safety.
 
-For medical, legal, financial, engineering and public-safety uses, a pilot target is never a substitute for applicable professional validation. High-stakes decisions remain with qualified, accountable people. Data access, approvals and partners must be real before a trial starts.
+Health experiments require qualified oversight. WHO's [patient-safety overview](https://www.who.int/health-topics/patient-safety) emphasises system design and patient involvement; its [mental-health overview](https://www.who.int/health-topics/mental-health) provides broader context. Neither source validates our targets or proposed AI interventions.
 
-## Publish what would change your mind
+## Review gates
 
-Every brief includes a stop condition. Report negative results and simpler solutions that win. The value of this project includes discovering where AI is unnecessary.
+- **Draft:** a clear human problem and proposed measurement; no claims of validation.
+- **Seed:** affected-person and domain review; relevant evidence assembled.
+- **Active:** named steward, lawful data access, baseline, comparator and agreed outcome contract.
+- **In progress:** an experiment is running.
+- **Solved locally:** independently supported human benefit within a stated setting.
+- **Archived:** superseded or retired, with reasons retained.
+
+Do not assign a universal happiness score. If prioritising, explain whose needs are considered, severity, breadth, plausible improvement, uncertainty and risk.
+
+## Stop when the wrong thing improves
+
+Redesign if institutional efficiency improves but the person's life does not; harm or dependency rises; gains require someone else's hidden sacrifice; or a simpler method does as well.
+
+Publish negative results. They help the next person avoid wasting time.

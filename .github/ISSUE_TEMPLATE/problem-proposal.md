@@ -1,39 +1,31 @@
 ---
-name: Propose a problem
-about: Add or improve a problem AI should help humanity solve
-title: "Problem: "
+name: A problem in everyday life
+about: Describe something that would make people's lives better
+title: "Life would be better if: "
 labels: []
 assignees: []
 ---
 
-## The problem in one sentence
+## What do you wish were different?
 
-Who cannot achieve what valuable outcome because which constraint remains unresolved?
+Use ordinary language. You do not need to propose a technology.
 
-## Why an ordinary person would care
+## Whose life would improve, and how?
 
-Describe a recognisable moment in real life.
+Describe the moment when this matters.
 
-## Why AI is relevant
+## Is this your experience, research or a hypothesis?
 
-Which intelligence bottleneck could AI change?
+Avoid sharing sensitive personal information.
 
-## Measurable pieces
+## How would we know it improved?
 
-List at least three sub-problems with a possible baseline and target.
+Suggest observable changes and how people would feel the difference.
 
-1.
-2.
-3.
+## How might AI help, and what else is needed?
 
-## Real-world success
+It is fine if you do not know yet.
 
-What would be observably better if this were solved?
+## What could make the solution unfair or harmful?
 
-## Risks or objections
-
-What could go wrong? Why might this not belong on the list?
-
-## Evidence or prior work
-
-Add links where available.
+Who might miss out or carry someone else's burden?
