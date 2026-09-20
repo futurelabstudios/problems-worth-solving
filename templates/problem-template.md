@@ -1,9 +1,9 @@
 ---
 id: PWS-XXXX
-title: A precise, outcome-neutral problem title
+title: A precise, outcome-neutral problem
 status: draft
-domain:
-geography:
+territory: body | mind | time | material-world | economic-agency | trust-and-connection | civilisation | frontier
+geography: global
 steward: unassigned
 last_reviewed: YYYY-MM-DD
 tags: []
@@ -11,17 +11,43 @@ tags: []
 
 # PWS-XXXX: Problem title
 
+## The ordinary human experience
+
+Describe the moment in a person’s life when this problem becomes real. Prefer something recognisable to abstract language.
+
 ## In one sentence
 
-Who experiences what measurable harm, where and under what conditions?
+Who cannot achieve what valuable outcome because which constraint remains unresolved?
 
-## The human reality
+## Why this matters
 
-Describe what this problem looks and feels like for the people living with it. Avoid turning people into statistics.
+What suffering, wasted time, foregone opportunity, cost or civilisational risk does it create?
 
-## Why it matters
+## First-principles decomposition
 
-State the consequence, scale and distribution of harm. Separate evidence from inference.
+Break the problem into its underlying constraints. Distinguish physical limits from limits of intelligence, incentives, institutions and coordination.
+
+1. 
+2. 
+3. 
+
+## Why AI changes what is possible
+
+Identify the relevant capability: prediction, personalisation, search, synthesis, design, simulation, translation, control or coordination. Explain why more software or more people alone have not solved it.
+
+## Measurable sub-problems
+
+| Sub-problem | Current baseline | Proposed target | How it would be measured |
+|---|---:|---:|---|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+Targets are hypotheses. Prefer a useful estimate over a vague ambition, and label uncertainty honestly.
+
+## Real-world success
+
+Describe the outcome in the world. A benchmark score, demo or model preference is not sufficient.
 
 ## System boundary
 
@@ -30,88 +56,73 @@ State the consequence, scale and distribution of harm. Separate evidence from in
 **Time horizon:**  
 **Unit of analysis:**
 
-## Evidence
+## Evidence and prior attempts
 
-- Baseline:
-- Prevalence:
-- Unequal impacts:
-- Primary sources:
-- Important uncertainty:
+- Primary evidence:
+- Existing approaches:
+- What they solved:
+- What remains:
+- Important disagreement or uncertainty:
 
-## Desired outcome
-
-Define observable improvement without prescribing a solution.
-
-## What has already been tried
-
-Summarise existing interventions, results, limitations and relevant organisations.
-
-## What blocks progress
-
-- Knowledge:
-- Data:
-- Technical:
-- Institutional:
-- Economic:
-- Political:
-- Behavioural or cultural:
-- Legal, ethical or rights-related:
-
-## Role for intelligence
-
-Identify work suited to humans, AI systems, institutions or combinations of them. Do not assume AI is necessary.
-
-## Data and access
+## Data and infrastructure
 
 - Available data:
 - Missing data:
+- Physical infrastructure required:
 - Data holders:
 - Privacy, consent and security constraints:
 
-## Commissioning map
+## Builders and commissioners
 
-- **Authority to act:**
-- **Economic beneficiary:**
-- **Public-value funder:**
-- **Implementation hosts:**
-- **People who must have a voice:**
+Who could plausibly build, buy, fund, regulate, host or open-source solutions? Include commercial paths where genuine value can support them.
 
-## Risks and safeguards
+## Risks, rights and failure modes
 
-List misuse pathways, negative externalities, groups at risk of exclusion, accountability requirements and reversibility.
+- What happens when the system is wrong?
+- Who could be excluded, manipulated or made dependent?
+- What metric might become a harmful proxy?
+- What decisions must remain accountable to humans?
+- Can an action be inspected and reversed?
 
-## Evaluation
+## Evaluation design
 
 - Primary outcome:
 - Leading indicators:
 - Counter-metrics:
-- Evaluation design:
+- Evaluation population and context:
 - Minimum meaningful improvement:
+- Independent validation:
+
+## Global transfer
+
+What changes across language, culture, income level, regulation and infrastructure? What part of the solution is universal and what must remain local?
 
 ## Scores
 
 | Dimension | Score (1–5) | Rationale |
 |---|---:|---|
 | Human value |  |  |
-| Scale |  |  |
-| Neglectedness |  |  |
-| Tractability |  |  |
+| Global relevance |  |  |
+| AI leverage |  |  |
+| Decomposability |  |  |
 | Measurability |  |  |
-| Leverage |  |  |
+| Economic sustainability |  |  |
 | Safety readiness |  |  |
-| Commissionability |  |  |
+| Path to deployment |  |  |
 
-## Smallest meaningful next step
+## Smallest serious experiment
 
-Define one 30–90 day action that reduces uncertainty or produces measurable value.
+Define one 30–90 day experiment that would either demonstrate value or kill a weak assumption.
 
 ## Help wanted
 
 - Domain expertise:
-- Community reviewers:
+- Affected users:
+- Builders:
 - Data:
-- Funding:
-- Implementation partners:
+- Compute or infrastructure:
+- Funding or customers:
+- Independent evaluators:
 
 ## Progress log
 
