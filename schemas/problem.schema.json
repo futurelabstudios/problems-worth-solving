@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Problems Worth Solving metadata",
+  "type": "object",
+  "required": ["id", "title", "status", "domain", "geography", "steward", "last_reviewed", "tags"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^PWS-[0-9]{4,}$"},
+    "title": {"type": "string", "minLength": 8, "maxLength": 140},
+    "status": {"enum": ["draft", "seed", "active", "in-progress", "solved-locally", "archived"]},
+    "domain": {"type": "string"},
+    "geography": {"type": "string"},
+    "steward": {"type": "string"},
+    "last_reviewed": {"type": "string", "format": "date"},
+    "tags": {"type": "array", "items": {"type": "string"}, "uniqueItems": true}
+  },
+  "additionalProperties": true
+}
