@@ -33,6 +33,7 @@ A setback should not wipe out years of effort.
 - [Earn a dependable living without losing your whole life to work](problems/security/PWS-0207.md)
 - [Survive an unexpected bill without a debt spiral](problems/security/PWS-0208.md)
 - [Keep your savings safe from scams](problems/security/PWS-0209.md)
+- [Have the means to choose how you spend your life](problems/security/PWS-0226.md)
 
 ### Have time to live
 
