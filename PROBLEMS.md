@@ -101,6 +101,20 @@ Scientific and infrastructure breakthroughs remain essential. Their purpose shou
 
 An appointment-navigation experiment is not the full ambition of accessible healthcare. A shopping planner is not the full ambition of affordable food. We should not shrink our hopes to the easiest product we can build.
 
+## Keep the larger possibilities in view
+
+An affordable, healthy ordinary day is worth working for. We can also ask what becomes possible when people gain much more control over their resources, bodies and time.
+
+We want freedom from deprivation and coercion, including the means to refuse harmful work. We want room for spiritual exploration, freedom of conscience and different ways of living. We want abundant clean energy and increasing ability to make, repair and recover the things people need. We want lives no longer cut short by disease and aging, with choices about care remaining with the person.
+
+We also want discovery, shared creativity and celebration: learning about the universe, exploring beyond Earth, making music, telling stories and dancing together. Enjoyment and wonder need not earn their place by making us more productive.
+
+These ambitions raise different kinds of questions. Some concern who owns productive resources or receives savings. Others require difficult science and engineering. Some possibilities may remain beyond what nature permits. Naming a desirable future does not establish that a particular technology can deliver it.
+
+[A future worth building](HORIZONS.md) connects these ambitions to the existing briefs and to research questions. It draws inspiration from Banks's Culture and Star Trek while separating fictional possibilities from scientific claims. Replicators, holodecks, drug glands, Orbitals, Dyson structures and warp travel can help us articulate wishes; they cannot substitute for evidence.
+
+The next contribution should make something clearer or more testable: who receives an automation gain, what a replacement part really costs, which health outcomes a study demonstrated, or what assumptions a proposed journey requires. Supporting research remains underneath the human purpose. It does not create a new catalogue territory, promote a draft, or establish a commitment to a technology. The existing standards still determine whether an experiment helped someone.
+
 ## What peace and happiness mean here
 
 We can observe less financial strain, pain, unwanted isolation, time pressure and environmental danger. We can ask whether people feel more supported, capable and free.
