@@ -25,6 +25,7 @@ Pain, illness and exhaustion should not consume the life we have.
 - [Get the right help when something feels wrong](problems/health/PWS-0204.md)
 - [Have more days when pain does not decide what you can do](problems/health/PWS-0205.md)
 - [Wake up rested enough to enjoy the day](problems/health/PWS-0206.md)
+- [Keep the health and independence to continue the life you choose](problems/health/PWS-0227.md)
 
 ### Feel financially secure
 
