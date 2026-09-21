@@ -1,6 +1,6 @@
 # What would make life better?
 
-A starting list of 24 problems people might recognise in their own lives.
+A starting list of 25 problems people might recognise in their own lives.
 
 The voices below are illustrative, not research quotes. These are draft choices that need review by people living in different circumstances. Each link opens the measurable brief.
 
@@ -47,6 +47,12 @@ Meaningful improvement in the activities a person chooses, alongside affordable 
 *“I do not want to spend every day exhausted.”*
 
 Better daytime energy and functioning, with support that fits real work and family schedules.
+
+### [Keep the health and independence to continue the life you choose](problems/health/PWS-0227.md)
+
+*“I want more years when I can keep doing what matters to me.”*
+
+Meaningful function, less disease and treatment burden, and access to effective help as people grow older.
 
 ## Feel financially secure
 
@@ -184,7 +190,7 @@ Families receive understandable, actionable help in time, including those who ca
 
 Every brief contains three measurable parts, an explanation of AI's possible role, limits and risks, and a first experiment. A small successful experiment is a step towards the ambition, not proof the whole problem is solved.
 
-All 24 are drafts. No measured baseline, confirmed commissioner or achieved benefit is claimed. [Read the measurement rules](METHODOLOGY.md).
+All 25 are drafts. No measured baseline, confirmed commissioner or achieved benefit is claimed. [Read the measurement rules](METHODOLOGY.md).
 
 ## Whose everyday life?
 
