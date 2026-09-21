@@ -6,7 +6,7 @@ The earlier set focused too heavily on institutional workflows. PWS-0101–PWS-0
 
 The original broad map and previous catalogue remain in [the previous revision](https://github.com/futurelabstudios/problems-worth-solving/tree/080aa1111c21a8f0130383668cce7d979cd879b3).
 
-Earlier IDs PWS-0001–PWS-0005 were withdrawn; PWS-0006–PWS-0010 were mentioned but never published as briefs. IDs through PWS-0100 remain reserved. PWS-0101–PWS-0124 preserve the former technical drafts. The current 24 briefs are PWS-0201–PWS-0224; new contributions should start after PWS-0224.
+Earlier IDs PWS-0001–PWS-0005 were withdrawn; PWS-0006–PWS-0010 were mentioned but never published as briefs. IDs through PWS-0100 remain reserved. PWS-0101–PWS-0124 preserve the former technical drafts. The 2026-09-20 revision introduced PWS-0201–PWS-0224; new contributions use IDs after PWS-0224.
 
 ## What changed in the standard
 

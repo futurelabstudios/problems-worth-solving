@@ -14,14 +14,14 @@ That is what abundance should feel like.
 |---|---|
 | **Afford the basics** | [Afford a safe home with money left to live](problems/essentials/PWS-0201.md) · [Eat well without worrying about the grocery bill](problems/essentials/PWS-0202.md) · [Keep the lights on and the home comfortable without bill shock](problems/essentials/PWS-0203.md) |
 | **Feel well** | [Get the right help when something feels wrong](problems/health/PWS-0204.md) · [Have more days when pain does not decide what you can do](problems/health/PWS-0205.md) · [Wake up rested enough to enjoy the day](problems/health/PWS-0206.md) |
-| **Feel financially secure** | [Earn a dependable living without losing your whole life to work](problems/security/PWS-0207.md) · [Survive an unexpected bill without a debt spiral](problems/security/PWS-0208.md) · [Keep your savings safe from scams](problems/security/PWS-0209.md) |
+| **Feel financially secure** | [Earn a dependable living without losing your whole life to work](problems/security/PWS-0207.md) · [Survive an unexpected bill without a debt spiral](problems/security/PWS-0208.md) · [Keep your savings safe from scams](problems/security/PWS-0209.md) · [Have the means to choose how you spend your life](problems/security/PWS-0226.md) |
 | **Have time to live** | [Get some of your day back from chores](problems/time/PWS-0210.md) · [Spend less of your life travelling to work](problems/time/PWS-0211.md) · [Finish essential paperwork without losing a day](problems/time/PWS-0212.md) |
 | **Care for the people we love** | [Find childcare you trust and can afford](problems/care/PWS-0213.md) · [Help ageing parents live with dignity without constant family worry](problems/care/PWS-0214.md) · [Have time and energy for the people you love](problems/care/PWS-0215.md) |
 | **Have a fair chance** | [Help every child learn without feeling left behind](problems/learning/PWS-0216.md) · [Start again when your work no longer offers a future](problems/learning/PWS-0217.md) · [Be understood wherever life takes you](problems/learning/PWS-0218.md) |
 | **Feel connected and at peace** | [Have someone you can turn to](problems/belonging/PWS-0219.md) · [Get support when worry feels too heavy](problems/belonging/PWS-0220.md) · [Disagree without every conversation becoming a fight](problems/belonging/PWS-0221.md) |
 | **Live somewhere safe and healthy** | [Breathe cleaner air where you live and work](problems/neighbourhood/PWS-0222.md) · [Trust the water coming into your home](problems/neighbourhood/PWS-0223.md) · [Keep your family safe when extreme weather reaches your street](problems/neighbourhood/PWS-0224.md) |
 
-**[Explore all 24 problems →](CATALOGUE.md)**
+**[Explore all 25 problems →](CATALOGUE.md)**
 
 ## The question behind the list
 
@@ -57,7 +57,7 @@ A business saving money is useful when it leads to something people receive: a l
 
 Each brief starts with a person and a better-life outcome. Underneath are three measurable parts, a possible role for AI, the constraints technology cannot remove, and a first experiment.
 
-The initial set has **24 draft problems across eight areas of life**. Targets are proposals. No completed pilots, proven effects or confirmed partners are claimed.
+The catalogue has **25 draft problems across eight areas of life**. Targets are proposals. No completed pilots, proven effects or confirmed partners are claimed.
 
 We have deliberately left room for people to correct us. An imagined voice in a brief is illustrative; it is not a quote from user research.
 
