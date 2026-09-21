@@ -93,6 +93,8 @@ Examples:
 
 Scientific and infrastructure breakthroughs remain essential. Their purpose should be understandable to the people whose lives they could improve.
 
+[Explore farther: calculations, habitats and unresolved physics](research/exploration.md) proposes an extension into discovery and life beyond Earth. Its worked probe comparison separates physical bounds from mission budgets; the note is supporting research, not a new catalogue territory or an established project commitment.
+
 ## Three things to keep separate
 
 - **The human ambition:** the better life worth pursuing.
