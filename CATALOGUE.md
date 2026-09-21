@@ -1,6 +1,6 @@
 # What would make life better?
 
-A starting list of 24 problems people might recognise in their own lives.
+A starting list of 25 problems people might recognise in their own lives.
 
 The voices below are illustrative, not research quotes. These are draft choices that need review by people living in different circumstances. Each link opens the measurable brief.
 
@@ -158,6 +158,12 @@ People can reach appropriate, affordable human support, feel understood and rega
 
 People can express needs, recognise disagreement and resolve practical issues while retaining their own judgment.
 
+### [Have accessible opportunities to create, play and celebrate with others](problems/belonging/PWS-0225.md)
+
+*“I want somewhere I can make things, dance and enjoy being alive with other people.”*
+
+Accessible opportunities to shape shared music, dance, stories and play, with room for different ways of participating.
+
 ## Live somewhere safe and healthy
 
 The place we call home should support a good life.
@@ -184,7 +190,7 @@ Families receive understandable, actionable help in time, including those who ca
 
 Every brief contains three measurable parts, an explanation of AI's possible role, limits and risks, and a first experiment. A small successful experiment is a step towards the ambition, not proof the whole problem is solved.
 
-All 24 are drafts. No measured baseline, confirmed commissioner or achieved benefit is claimed. [Read the measurement rules](METHODOLOGY.md).
+All 25 are drafts. No measured baseline, confirmed commissioner or achieved benefit is claimed. [Read the measurement rules](METHODOLOGY.md).
 
 ## Whose everyday life?
 

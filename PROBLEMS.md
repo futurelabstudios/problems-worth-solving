@@ -65,6 +65,7 @@ We should have people to turn to and space to feel at ease.
 - [Have someone you can turn to](problems/belonging/PWS-0219.md)
 - [Get support when worry feels too heavy](problems/belonging/PWS-0220.md)
 - [Disagree without every conversation becoming a fight](problems/belonging/PWS-0221.md)
+- [Have accessible opportunities to create, play and celebrate with others](problems/belonging/PWS-0225.md)
 
 ### Live somewhere safe and healthy
 
